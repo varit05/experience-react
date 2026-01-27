@@ -1,3 +1,30 @@
+Getting Started
+Installation
+
+Install the dependencies:
+
+```
+pnpm install
+```
+
+Development
+
+Start the development server with HMR:
+
+```
+pnpm run dev
+```
+
+Your application will be available at http://localhost:5173.
+Building for Production
+
+Create a production build:
+
+```
+pnpm run build
+```
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
